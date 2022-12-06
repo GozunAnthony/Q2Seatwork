@@ -1,0 +1,29 @@
+img{
+	border-style: double;
+	border-color: yellow;
+	float: right;
+
+}
+table{
+	border-style: solid;
+	border-color: black;
+	border-width: 5px;
+}
+h1{
+	font-family: Alice;
+}
+ul{
+	font-family: Tahoma;
+}
+body{
+	margin-right: 50px;
+	margin-top: 50px;
+}
+.Div2{
+	background-color: #DABF5B;
+	padding: 2px 12px 2px;
+}
+.DIv1{
+	background-color: #FF5733;
+	padding: 10px 12px 10px;
+}
